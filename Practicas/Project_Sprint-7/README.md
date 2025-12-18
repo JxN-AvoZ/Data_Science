@@ -51,7 +51,7 @@ El proyecto sigue una estructura clara y organizada:
 
 * app.py: archivo principal de la aplicación Streamlit.
 
-* DB/vehicles_us.csv: conjunto de datos en formato CSV.
+* 'DB/vehicles_us.csv': conjunto de datos en formato CSV.
 
 * requirements.txt: lista de dependencias del proyecto.
 
