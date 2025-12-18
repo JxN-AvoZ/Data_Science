@@ -29,19 +29,19 @@ La aplicación web ofrece las siguientes funcionalidades:
 
 ## Tecnologías utilizadas
 
-* Python como lenguaje principal.
+* __Python__ como lenguaje principal.
 
-* pandas para la manipulación y carga de datos.
+* __pandas__ para la manipulación y carga de datos.
 
-* plotly para la creación de gráficos interactivos.
+* __plotly__ para la creación de gráficos interactivos.
 
-* streamlit para el desarrollo de la aplicación web.
+* __streamlit__ para el desarrollo de la aplicación web.
 
-* Jupyter Notebook para el análisis exploratorio inicial.
+* __Jupyter Notebook__ para el análisis exploratorio inicial.
 
-* Git y GitHub para control de versiones.
+* __Git__ y __GitHub__ para control de versiones.
 
-* Render para el despliegue de la aplicación en la nube.
+* __Render__ para el despliegue de la aplicación en la nube.
 
 
 
@@ -49,15 +49,15 @@ La aplicación web ofrece las siguientes funcionalidades:
 
 El proyecto sigue una estructura clara y organizada:
 
-* app.py: archivo principal de la aplicación Streamlit.
+* `app.py`: archivo principal de la aplicación Streamlit.
 
-* 'DB/vehicles_us.csv': conjunto de datos en formato CSV.
+* `DB/vehicles_us.csv`: conjunto de datos en formato CSV.
 
-* requirements.txt: lista de dependencias del proyecto.
+* `requirements.txt`: lista de dependencias del proyecto.
 
-* notebooks/EDA.ipynb: notebook para el análisis exploratorio de datos.
+* `notebooks/EDA.ipynb`: notebook para el análisis exploratorio de datos.
 
-* README.md: documentación del proyecto.
+* `README.md`: documentación del proyecto.
 
 
 ## Ejecución local
@@ -66,9 +66,9 @@ Para ejecutar la aplicación de forma local, es necesario:
 
 1. Crear y activar un entorno virtual de Python.
 
-2. Instalar las dependencias listadas en requirements.txt.
+2. Instalar las dependencias listadas en `requirements.txt`.
 
-3. Ejecutar el comando streamlit run app.py desde la raíz del proyecto.
+3. Ejecutar el comando `streamlit run app.py` desde la raíz del proyecto.
 
 4. Abrir la aplicación en el navegador usando la URL local proporcionada por Streamlit.
 
