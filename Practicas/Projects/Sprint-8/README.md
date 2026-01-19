@@ -114,7 +114,7 @@ Archivo:
 
 __Hipótesis evaluada:__
 
-    _**“La duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O’Hare cambia los sábados lluviosos.”**_
+_**“La duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O’Hare cambia los sábados lluviosos.”**_
 
 Incluye:
 
