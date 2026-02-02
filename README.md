@@ -11,6 +11,7 @@ Este repositorio reúne una colección de proyectos desarrollados a lo largo de 
 __Tecnologías:__ Python
 
 Proyecto centrado en la limpieza, estandarización y validación de datos de clientes de una empresa de comercio electrónico. Se preparan los datos para su posterior análisis, incluyendo el cálculo del gasto total por cliente y la verificación de consistencia.
+
 __Enfoque principal:__ calidad de datos y preparación para KPIs.
 
 
@@ -19,6 +20,7 @@ __Enfoque principal:__ calidad de datos y preparación para KPIs.
 __Tecnologías:__ Python, análisis estadístico
 
 Continuación del proyecto anterior, donde se realiza un análisis más profundo del comportamiento de los clientes. Incluye segmentación de usuarios, análisis de tendencias temporales y generación de insights accionables para campañas de marketing personalizadas.
+
 __Enfoque principal:__ análisis avanzado orientado a decisiones de negocio.
 
 
@@ -27,6 +29,7 @@ __Enfoque principal:__ análisis avanzado orientado a decisiones de negocio.
 __Tecnologías:__ Python, pandas
 
 Análisis de datos reales de streaming musical para comparar los hábitos de escucha de usuarios en dos ciudades distintas. El proyecto incluye descripción de datos, preprocesamiento y análisis comparativo por ciudad y día de la semana, documentado completamente en Jupyter Notebook.
+
 __Enfoque principal:__ análisis exploratorio y comparación de comportamientos.
 
 
@@ -35,6 +38,7 @@ __Enfoque principal:__ análisis exploratorio y comparación de comportamientos.
 __Tecnologías:__ Python, pandas, matplotlib
 
 Proyecto basado en un dataset público de Instacart (Kaggle), modificado para incluir valores ausentes y duplicados. Se integran múltiples tablas, se realiza una limpieza exhaustiva y un análisis exploratorio para entender los hábitos de compra, productos más populares y patrones de recompra.
+
 __Enfoque principal:__ manejo de datos reales a gran escala y análisis de consumo.
 
 
@@ -43,6 +47,7 @@ __Enfoque principal:__ manejo de datos reales a gran escala y análisis de consu
 __Tecnologías:__ Python, pandas, estadística
 
 Análisis de datos de telecomunicaciones para determinar qué plan de prepago genera mayores ingresos. Incluye cálculo de facturación mensual, análisis de uso de servicios y pruebas estadísticas para comparar ingresos promedio entre tarifas.
+
 __Enfoque principal:__ análisis de negocio y validación estadística.
 
 
@@ -51,6 +56,7 @@ __Enfoque principal:__ análisis de negocio y validación estadística.
 __Tecnologías:__ Python, pandas, análisis estadístico
 
 Proyecto de análisis del mercado de videojuegos a partir de datos históricos de ventas, reseñas, plataformas, géneros y clasificaciones ESRB. Se estudian patrones de éxito, diferencias regionales y se prueban hipótesis estadísticas para apoyar decisiones comerciales y campañas publicitarias.
+
 __Enfoque principal:__ análisis de mercado, segmentación regional y toma de decisiones basada en datos.
 
 
@@ -59,6 +65,7 @@ __Enfoque principal:__ análisis de mercado, segmentación regional y toma de de
 __Tecnologías:__ Python, pandas, plotly, Streamlit, Render
 
 Desarrollo y despliegue de una aplicación web interactiva que permite explorar un conjunto de datos mediante gráficos dinámicos. El proyecto cubre todo el flujo de trabajo: creación de entornos virtuales, análisis exploratorio en Jupyter Notebook, construcción de un dashboard con Streamlit y despliegue en la nube usando Render.
+
 __Enfoque principal__: ingeniería de software aplicada a datos y visualización interactiva.
 
 
@@ -67,6 +74,7 @@ __Enfoque principal__: ingeniería de software aplicada a datos y visualización
 __Tecnologías:__ SQL, Python, pandas, matplotlib, scipy, Jupyter Notebook
 
 Proyecto de análisis de datos para una empresa de viajes compartidos en fase de lanzamiento. Se analizan datos reales de viajes en taxi en Chicago combinando múltiples tablas relacionales (viajes, taxis, barrios y clima). El proyecto incluye consultas SQL avanzadas, análisis exploratorio en Python, visualización de datos y pruebas de hipótesis estadísticas para evaluar el impacto de las condiciones climáticas en la duración de los viajes, especialmente en trayectos clave como Loop–Aeropuerto O’Hare.
+
 __Enfoque principal__: análisis de datos relacionales, integración SQL–Python y validación de hipótesis con estadística inferencial.
 
 
@@ -83,5 +91,6 @@ Este repositorio funciona como un portafolio profesional, demostrando la capacid
 * Comunicar resultados mediante visualizaciones y conclusiones claras.
 
 * Construir y desplegar aplicaciones web orientadas a datos.
+
 
 Los proyectos reflejan un enfoque progresivo, desde tareas fundamentales de preparación de datos hasta análisis avanzados y aplicaciones completas listas para producción.
