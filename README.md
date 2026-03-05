@@ -14,7 +14,7 @@ Este repositorio reúne una colección de proyectos desarrollados a lo largo de 
 6. [Videojuegos – Ice](./Practicas/Projects/Sprint-6/)
 7. [Dashboard Streamlit](./Practicas/Projects/Sprint-7/)
 8. [Zuber – SQL y clima](./Practicas/Projects/Sprint-8/)
-9. [Machine Learning – Recomendación de planes](./Practicas/Projects/Sprint-10/)
+10. [Machine Learning – Recomendación de planes](./Practicas/Projects/Sprint-10/)
 
 ---
 
