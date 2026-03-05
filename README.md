@@ -6,22 +6,22 @@ Este repositorio reúne una colección de proyectos desarrollados a lo largo de 
 
 ## Índice de proyectos
 
-1. [Store 1 – Limpieza de datos](./Practicas/Projects/Sprint-1/)
-2. [Store 1 – Análisis avanzado](./Practicas/Projects/Sprint-2/)
-3. [Análisis de música](./Practicas/Projects/Sprint-3/)
-4. [Instacart](./Practicas/Projects/Sprint-4/)
-5. [Megaline – Ingresos](./Practicas/Projects/Sprint-5/)
-6. [Videojuegos – Ice](./Practicas/Projects/Sprint-6/)
-7. [Dashboard Streamlit](./Practicas/Projects/Sprint-7/)
-8. [Zuber – SQL y clima](./Practicas/Projects/Sprint-8/)
-10. [Machine Learning – Recomendación de planes](./Practicas/Projects/Sprint-10/)
+1. [Store 1 – Limpieza de datos](./Practicas/Sprint-1/)
+2. [Store 1 – Análisis avanzado](./Practicas/Sprint-2/)
+3. [Análisis de música](./Practicas/Sprint-3/)
+4. [Instacart](./Practicas/Sprint-4/)
+5. [Megaline – Ingresos](./Practicas/Sprint-5/)
+6. [Videojuegos – Ice](./Practicas/Sprint-6/)
+7. [Dashboard Streamlit](./Practicas/Sprint-7/)
+8. [Zuber – SQL y clima](./Practicas/Sprint-8/)
+10. [Machine Learning – Recomendación de planes](./Practicas/Sprint-10/)
 
 ---
 
 ## Proyectos incluidos
 
 
-### 1. [Limpieza y preparación de datos para el Programa de Fidelización de Store 1](./Practicas/Projects/Sprint-1/)
+### 1. [Limpieza y preparación de datos para el Programa de Fidelización de Store 1](./Practicas/Sprint-1/)
 
 __Tecnologías:__ Python
 
@@ -31,7 +31,7 @@ __Enfoque principal:__ calidad de datos y preparación para KPIs.
 
 ---
 
-### 2. [Análisis avanzado de clientes y tendencias de consumo – Store 1](./Practicas/Projects/Sprint-2/)
+### 2. [Análisis avanzado de clientes y tendencias de consumo – Store 1](./Practicas/Sprint-2/)
 
 __Tecnologías:__ Python, análisis estadístico
 
@@ -41,7 +41,7 @@ __Enfoque principal:__ análisis avanzado orientado a decisiones de negocio.
 
 ---
 
-### 3. [Análisis de hábitos de escucha en plataformas de música online](./Practicas/Projects/Sprint-3/)
+### 3. [Análisis de hábitos de escucha en plataformas de música online](./Practicas/Sprint-3/)
 
 __Tecnologías:__ Python, pandas
 
@@ -51,7 +51,7 @@ __Enfoque principal:__ análisis exploratorio y comparación de comportamientos.
 
 ---
 
-### 4. [Análisis y limpieza de datos de compras en Instacart](./Practicas/Projects/Sprint-4/)
+### 4. [Análisis y limpieza de datos de compras en Instacart](./Practicas/Sprint-4/)
 
 __Tecnologías:__ Python, pandas, matplotlib
 
@@ -61,7 +61,7 @@ __Enfoque principal:__ manejo de datos reales a gran escala y análisis de consu
 
 ---
 
-### 5. [Análisis de ingresos por tarifas prepago en Megaline](./Practicas/Projects/Sprint-5/)
+### 5. [Análisis de ingresos por tarifas prepago en Megaline](./Practicas/Sprint-5/)
 
 __Tecnologías:__ Python, pandas, estadística
 
@@ -71,7 +71,7 @@ __Enfoque principal:__ análisis de negocio y validación estadística.
 
 ---
 
-### 6. [Análisis de ventas y éxito de videojuegos – Tienda Ice](./Practicas/Projects/Sprint-6/)
+### 6. [Análisis de ventas y éxito de videojuegos – Tienda Ice](./Practicas/Sprint-6/)
 
 __Tecnologías:__ Python, pandas, análisis estadístico
 
@@ -81,7 +81,7 @@ __Enfoque principal:__ análisis de mercado, segmentación regional y toma de de
 
 ---
 
-### 7. [Panel de control web para análisis exploratorio de datos](./Practicas/Projects/Sprint-7/)
+### 7. [Panel de control web para análisis exploratorio de datos](./Practicas/Sprint-7/)
 
 __Tecnologías:__ Python, pandas, plotly, Streamlit, Render
 
@@ -91,7 +91,7 @@ __Enfoque principal__: ingeniería de software aplicada a datos y visualización
 
 ---
 
-### 8. [Análisis de viajes en taxi y efecto del clima – Zuber (Chicago)](./Practicas/Projects/Sprint-8/)
+### 8. [Análisis de viajes en taxi y efecto del clima – Zuber (Chicago)](./Practicas/Sprint-8/)
 
 __Tecnologías:__ SQL, Python, pandas, matplotlib, scipy, Jupyter Notebook
 
@@ -101,7 +101,7 @@ __Enfoque principal__: análisis de datos relacionales, integración SQL–Pytho
 
 ---
 
-### 10. [Modelo de clasificación para recomendación de planes – Megaline](./Practicas/Projects/Sprint-10/)
+### 10. [Modelo de clasificación para recomendación de planes – Megaline](./Practicas/Sprint-10/)
 
 __Tecnologías:__ Python, pandas, scikit-learn, machine learning
 
