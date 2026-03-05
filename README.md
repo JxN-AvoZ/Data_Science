@@ -2,11 +2,26 @@
 
 Este repositorio reúne una colección de proyectos desarrollados a lo largo de distintos sprints y etapas formativas, enfocados en análisis de datos, limpieza y preparación de datasets, visualización, pruebas estadísticas y despliegue de aplicaciones web. Cada proyecto simula escenarios reales de negocio y tiene como objetivo fortalecer habilidades técnicas y analíticas aplicadas a problemas del mundo real.
 
+---
+
+## Índice de proyectos
+
+1. [Store 1 – Limpieza de datos](./Practicas/Projects/Sprint-1/)
+2. [Store 1 – Análisis avanzado](./Practicas/Projects/Sprint-2/)
+3. [Análisis de música](./Practicas/Projects/Sprint-3/)
+4. [Instacart](./Practicas/Projects/Sprint-4/)
+5. [Megaline – Ingresos](./Practicas/Projects/Sprint-5/)
+6. [Videojuegos – Ice](./Practicas/Projects/Sprint-6/)
+7. [Dashboard Streamlit](./Practicas/Projects/Sprint-7/)
+8. [Zuber – SQL y clima](./Practicas/Projects/Sprint-8/)
+9. [Machine Learning – Recomendación de planes](./Practicas/Projects/Sprint-10/)
+
+---
 
 ## Proyectos incluidos
 
 
-### 1. Limpieza y preparación de datos para el Programa de Fidelización de Store 1
+### 1. [Limpieza y preparación de datos para el Programa de Fidelización de Store 1](./Practicas/Projects/Sprint-1/)
 
 __Tecnologías:__ Python
 
@@ -14,8 +29,9 @@ Proyecto centrado en la limpieza, estandarización y validación de datos de cli
 
 __Enfoque principal:__ calidad de datos y preparación para KPIs.
 
+---
 
-### 2. Análisis avanzado de clientes y tendencias de consumo – Store 1
+### 2. [Análisis avanzado de clientes y tendencias de consumo – Store 1](./Practicas/Projects/Sprint-2/)
 
 __Tecnologías:__ Python, análisis estadístico
 
@@ -23,8 +39,9 @@ Continuación del proyecto anterior, donde se realiza un análisis más profundo
 
 __Enfoque principal:__ análisis avanzado orientado a decisiones de negocio.
 
+---
 
-### 3. Análisis de hábitos de escucha en plataformas de música online
+### 3. [Análisis de hábitos de escucha en plataformas de música online](./Practicas/Projects/Sprint-3/)
 
 __Tecnologías:__ Python, pandas
 
@@ -32,8 +49,9 @@ Análisis de datos reales de streaming musical para comparar los hábitos de esc
 
 __Enfoque principal:__ análisis exploratorio y comparación de comportamientos.
 
+---
 
-### 4. Análisis y limpieza de datos de compras en Instacart
+### 4. [Análisis y limpieza de datos de compras en Instacart](./Practicas/Projects/Sprint-4/)
 
 __Tecnologías:__ Python, pandas, matplotlib
 
@@ -41,8 +59,9 @@ Proyecto basado en un dataset público de Instacart (Kaggle), modificado para in
 
 __Enfoque principal:__ manejo de datos reales a gran escala y análisis de consumo.
 
+---
 
-### 5. Análisis de ingresos por tarifas prepago en Megaline
+### 5. [Análisis de ingresos por tarifas prepago en Megaline](./Practicas/Projects/Sprint-5/)
 
 __Tecnologías:__ Python, pandas, estadística
 
@@ -50,8 +69,9 @@ Análisis de datos de telecomunicaciones para determinar qué plan de prepago ge
 
 __Enfoque principal:__ análisis de negocio y validación estadística.
 
+---
 
-### 6. Análisis de ventas y éxito de videojuegos – Tienda Ice
+### 6. [Análisis de ventas y éxito de videojuegos – Tienda Ice](./Practicas/Projects/Sprint-6/)
 
 __Tecnologías:__ Python, pandas, análisis estadístico
 
@@ -59,8 +79,9 @@ Proyecto de análisis del mercado de videojuegos a partir de datos históricos d
 
 __Enfoque principal:__ análisis de mercado, segmentación regional y toma de decisiones basada en datos.
 
+---
 
-### 7. Panel de control web para análisis exploratorio de datos
+### 7. [Panel de control web para análisis exploratorio de datos](./Practicas/Projects/Sprint-7/)
 
 __Tecnologías:__ Python, pandas, plotly, Streamlit, Render
 
@@ -68,8 +89,9 @@ Desarrollo y despliegue de una aplicación web interactiva que permite explorar 
 
 __Enfoque principal__: ingeniería de software aplicada a datos y visualización interactiva.
 
+---
 
-### 8. Análisis de viajes en taxi y efecto del clima – Zuber (Chicago)
+### 8. [Análisis de viajes en taxi y efecto del clima – Zuber (Chicago)](./Practicas/Projects/Sprint-8/)
 
 __Tecnologías:__ SQL, Python, pandas, matplotlib, scipy, Jupyter Notebook
 
@@ -77,6 +99,17 @@ Proyecto de análisis de datos para una empresa de viajes compartidos en fase de
 
 __Enfoque principal__: análisis de datos relacionales, integración SQL–Python y validación de hipótesis con estadística inferencial.
 
+---
+
+### 10. [Modelo de clasificación para recomendación de planes – Megaline](./Practicas/Projects/Sprint-10/)
+
+__Tecnologías:__ Python, pandas, scikit-learn, machine learning
+
+Proyecto de machine learning enfocado en la construcción de un modelo de clasificación para recomendar el plan móvil más adecuado a los clientes de la compañía Megaline. A partir de datos de comportamiento mensual de los usuarios (llamadas, minutos, mensajes y consumo de datos), se entrenaron distintos modelos de clasificación para predecir si un usuario debería utilizar el plan Smart o Ultra. El proyecto incluye la división de datos en conjuntos de entrenamiento, validación y prueba, experimentación con hiperparámetros y evaluación del rendimiento del modelo utilizando la métrica de exactitud.
+
+__Enfoque principal:__ aplicación de algoritmos de machine learning para problemas de clasificación y recomendación basados en comportamiento de usuarios.
+
+---
 
 ## Objetivo del repositorio
 
@@ -94,3 +127,11 @@ Este repositorio funciona como un portafolio profesional, demostrando la capacid
 
 
 Los proyectos reflejan un enfoque progresivo, desde tareas fundamentales de preparación de datos hasta análisis avanzados y aplicaciones completas listas para producción.
+
+---
+
+## Autor
+
+**Juan Aviña**
+
+Portafolio de proyectos de **Data Science y Machine Learning** desarrollado durante el programa de formación de **TripleTen** y estudios de **Maestría en Inteligencia Artificial**.
