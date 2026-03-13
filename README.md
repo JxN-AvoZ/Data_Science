@@ -6,22 +6,24 @@ Este repositorio reúne una colección de proyectos desarrollados a lo largo de 
 
 ## Índice de proyectos
 
-1. [Store 1 – Limpieza de datos](./Practicas/Sprint-1/)
-2. [Store 1 – Análisis avanzado](./Practicas/Sprint-2/)
-3. [Análisis de música](./Practicas/Sprint-3/)
-4. [Instacart](./Practicas/Sprint-4/)
-5. [Megaline – Ingresos](./Practicas/Sprint-5/)
-6. [Videojuegos – Ice](./Practicas/Sprint-6/)
-7. [Dashboard Streamlit](./Practicas/Sprint-7/)
-8. [Zuber – SQL y clima](./Practicas/Sprint-8/)
+1. [Store 1 – Limpieza de datos](./Practicas/Sprint-01/)
+2. [Store 1 – Análisis avanzado](./Practicas/Sprint-02/)
+3. [Análisis de música](./Practicas/Sprint-03/)
+4. [Instacart](./Practicas/Sprint-04/)
+5. [Megaline – Ingresos](./Practicas/Sprint-05/)
+6. [Videojuegos – Ice](./Practicas/Sprint-06/)
+7. [Dashboard Streamlit](./Practicas/Sprint-07/)
+8. [Zuber – SQL y clima](./Practicas/Sprint-08/)
+9. [CV Profesional](./Practicas/Sprint-09/)
 10. [Machine Learning – Recomendación de planes](./Practicas/Sprint-10/)
+11. [Beta Bank – Predicción de abandono de clientes](./Practicas/Sprint-11/)
 
 ---
 
 ## Proyectos incluidos
 
 
-### 1. [Limpieza y preparación de datos para el Programa de Fidelización de Store 1](./Practicas/Sprint-1/)
+### 1. [Limpieza y preparación de datos para el Programa de Fidelización de Store 1](./Practicas/Sprint-01/)
 
 __Tecnologías:__ Python
 
@@ -31,7 +33,7 @@ __Enfoque principal:__ calidad de datos y preparación para KPIs.
 
 ---
 
-### 2. [Análisis avanzado de clientes y tendencias de consumo – Store 1](./Practicas/Sprint-2/)
+### 2. [Análisis avanzado de clientes y tendencias de consumo – Store 1](./Practicas/Sprint-02/)
 
 __Tecnologías:__ Python, análisis estadístico
 
@@ -41,7 +43,7 @@ __Enfoque principal:__ análisis avanzado orientado a decisiones de negocio.
 
 ---
 
-### 3. [Análisis de hábitos de escucha en plataformas de música online](./Practicas/Sprint-3/)
+### 3. [Análisis de hábitos de escucha en plataformas de música online](./Practicas/Sprint-03/)
 
 __Tecnologías:__ Python, pandas
 
@@ -51,7 +53,7 @@ __Enfoque principal:__ análisis exploratorio y comparación de comportamientos.
 
 ---
 
-### 4. [Análisis y limpieza de datos de compras en Instacart](./Practicas/Sprint-4/)
+### 4. [Análisis y limpieza de datos de compras en Instacart](./Practicas/Sprint-04/)
 
 __Tecnologías:__ Python, pandas, matplotlib
 
@@ -61,7 +63,7 @@ __Enfoque principal:__ manejo de datos reales a gran escala y análisis de consu
 
 ---
 
-### 5. [Análisis de ingresos por tarifas prepago en Megaline](./Practicas/Sprint-5/)
+### 5. [Análisis de ingresos por tarifas prepago en Megaline](./Practicas/Sprint-05/)
 
 __Tecnologías:__ Python, pandas, estadística
 
@@ -71,7 +73,7 @@ __Enfoque principal:__ análisis de negocio y validación estadística.
 
 ---
 
-### 6. [Análisis de ventas y éxito de videojuegos – Tienda Ice](./Practicas/Sprint-6/)
+### 6. [Análisis de ventas y éxito de videojuegos – Tienda Ice](./Practicas/Sprint-06/)
 
 __Tecnologías:__ Python, pandas, análisis estadístico
 
@@ -81,7 +83,7 @@ __Enfoque principal:__ análisis de mercado, segmentación regional y toma de de
 
 ---
 
-### 7. [Panel de control web para análisis exploratorio de datos](./Practicas/Sprint-7/)
+### 7. [Panel de control web para análisis exploratorio de datos](./Practicas/Sprint-07/)
 
 __Tecnologías:__ Python, pandas, plotly, Streamlit, Render
 
@@ -91,13 +93,23 @@ __Enfoque principal__: ingeniería de software aplicada a datos y visualización
 
 ---
 
-### 8. [Análisis de viajes en taxi y efecto del clima – Zuber (Chicago)](./Practicas/Sprint-8/)
+### 8. [Análisis de viajes en taxi y efecto del clima – Zuber (Chicago)](./Practicas/Sprint-08/)
 
 __Tecnologías:__ SQL, Python, pandas, matplotlib, scipy, Jupyter Notebook
 
 Proyecto de análisis de datos para una empresa de viajes compartidos en fase de lanzamiento. Se analizan datos reales de viajes en taxi en Chicago combinando múltiples tablas relacionales (viajes, taxis, barrios y clima). El proyecto incluye consultas SQL avanzadas, análisis exploratorio en Python, visualización de datos y pruebas de hipótesis estadísticas para evaluar el impacto de las condiciones climáticas en la duración de los viajes, especialmente en trayectos clave como Loop–Aeropuerto O’Hare.
 
 __Enfoque principal__: análisis de datos relacionales, integración SQL–Python y validación de hipótesis con estadística inferencial.
+
+---
+
+### 9. [Desarrollo de CV profesional](./Practicas/Sprint-09/)
+
+__Tecnologías:__ Markdown, documentación profesional
+
+En este sprint se desarrolló un currículum profesional orientado a posiciones de **Data Analyst y Data Scientist**, integrando habilidades técnicas en análisis de datos, machine learning y programación en Python. El CV resume la experiencia adquirida durante el programa de formación de **TripleTen** y los estudios de **Maestría en Inteligencia Artificial**, así como los proyectos desarrollados dentro de este portafolio.
+
+__Enfoque principal:__ comunicación profesional y presentación estructurada del perfil técnico.
 
 ---
 
@@ -108,6 +120,18 @@ __Tecnologías:__ Python, pandas, scikit-learn, machine learning
 Proyecto de machine learning enfocado en la construcción de un modelo de clasificación para recomendar el plan móvil más adecuado a los clientes de la compañía Megaline. A partir de datos de comportamiento mensual de los usuarios (llamadas, minutos, mensajes y consumo de datos), se entrenaron distintos modelos de clasificación para predecir si un usuario debería utilizar el plan Smart o Ultra. El proyecto incluye la división de datos en conjuntos de entrenamiento, validación y prueba, experimentación con hiperparámetros y evaluación del rendimiento del modelo utilizando la métrica de exactitud.
 
 __Enfoque principal:__ aplicación de algoritmos de machine learning para problemas de clasificación y recomendación basados en comportamiento de usuarios.
+
+---
+
+### 11. [Predicción de abandono de clientes – Beta Bank](./Practicas/Sprint-11/)
+
+__Tecnologías:__ Python, pandas, scikit-learn, machine learning, análisis estadístico
+
+Proyecto de machine learning enfocado en la predicción de abandono de clientes (churn) en una institución bancaria. A partir de datos históricos de clientes —como puntaje crediticio, edad, saldo de cuenta, número de productos y actividad del usuario— se desarrollaron modelos de clasificación capaces de identificar clientes con alta probabilidad de abandonar el banco.
+
+El proyecto incluye análisis del desequilibrio de clases, entrenamiento de modelos iniciales, aplicación de técnicas para corregir el desbalance de datos y optimización de hiperparámetros utilizando conjuntos de entrenamiento y validación. El modelo final se evaluó utilizando métricas de desempeño como **F1-score y AUC-ROC**.
+
+__Enfoque principal:__ predicción de churn utilizando machine learning y manejo de datasets desbalanceados.
 
 ---
 
