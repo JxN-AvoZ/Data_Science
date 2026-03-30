@@ -14,9 +14,14 @@ Este repositorio reúne una colección de proyectos desarrollados a lo largo de 
 6. [Videojuegos – Ice](./Practicas/Sprint-06/)
 7. [Dashboard Streamlit](./Practicas/Sprint-07/)
 8. [Zuber – SQL y clima](./Practicas/Sprint-08/)
-9. [CV Profesional](./Practicas/Sprint-09/)
+9. [CV profesional](./Practicas/Sprint-09/)
 10. [Machine Learning – Recomendación de planes](./Practicas/Sprint-10/)
 11. [Beta Bank – Predicción de abandono de clientes](./Practicas/Sprint-11/)
+12. [Machine Learning – Selección de pozos petroleros](./Practicas/Sprint-12/)
+13. [Recuperación de oro – Machine Learning](./Practicas/Sprint-13/)
+
+
+Los proyectos muestran una progresión desde limpieza y análisis exploratorio de datos hasta aplicaciones de machine learning, modelado predictivo y evaluación de riesgo para toma de decisiones basada en datos.
 
 ---
 
@@ -133,6 +138,36 @@ El proyecto incluye análisis del desequilibrio de clases, entrenamiento de mode
 
 __Enfoque principal:__ predicción de churn utilizando machine learning y manejo de datasets desbalanceados.
 
+---
+
+### 12. [Selección de regiones petroleras – OilyGiant](./Practicas/Sprint-12/)
+
+__Tecnologías:__ Python, pandas, numpy, scikit-learn, machine learning, estadística
+
+Proyecto de machine learning enfocado en la **optimización de inversiones en la industria energética**, cuyo objetivo es seleccionar la región más rentable para el desarrollo de 200 pozos petroleros.
+
+A partir de datos geológicos de tres regiones, se construyeron modelos de **regresión lineal** para predecir el volumen de reservas de petróleo. Posteriormente, se seleccionaron los 200 pozos con mayor producción estimada para calcular el beneficio potencial.
+
+El proyecto incluye un análisis completo de rentabilidad considerando restricciones reales del negocio, así como una evaluación de riesgo utilizando **bootstrapping (1000 muestras)** para estimar la distribución de ganancias, intervalos de confianza y probabilidad de pérdidas.
+
+La decisión final se basa en seleccionar la región con el **mayor beneficio promedio** y un **riesgo de pérdidas inferior al 2.5%**, simulando un escenario real de toma de decisiones empresariales.
+
+__Enfoque principal:__ modelado predictivo, análisis de riesgo y toma de decisiones basada en datos en contextos industriales.
+
+---
+
+### 13. [Recuperación de oro – Machine Learning](./Practicas/Sprint-13/)
+__Tecnologías:__ Python, pandas, scikit-learn, numpy
+
+Proyecto de machine learning aplicado a un proceso industrial real para predecir la eficiencia en la recuperación de oro en distintas etapas de refinamiento.
+
+Se trabajó con múltiples datasets que representan distintas fases del proceso, considerando desafíos como variables ausentes en el conjunto de prueba y posibles problemas de data leakage.
+
+El proyecto incluye validación de cálculos del proceso, análisis de concentración de metales (Au, Ag, Pb), detección de valores atípicos y construcción de modelos de regresión evaluados mediante la métrica personalizada **sMAPE**.
+
+__Enfoque principal:__ modelado predictivo en entornos industriales, validación de datos y uso de métricas especializadas.
+
+---
 ---
 
 ## Objetivo del repositorio
