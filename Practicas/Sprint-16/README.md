@@ -17,9 +17,9 @@ permitiendo mejorar la toma de decisiones operativas y la asignación de recurso
 Desarrollar un modelo predictivo que estime el número de pedidos de taxis por hora,
 cumpliendo con la siguiente condición:
 
-\begin{equation}
+$$
 \text{RMSE} = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(\hat{y}_i - y_i)^2} \leq 48
-\end{equation}
+$$
 
 ---
 
