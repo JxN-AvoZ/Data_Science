@@ -19,6 +19,9 @@ Este repositorio reúne una colección de proyectos desarrollados a lo largo de 
 11. [Beta Bank – Predicción de abandono de clientes](./Practicas/Sprint-11/)
 12. [Machine Learning – Selección de pozos petroleros](./Practicas/Sprint-12/)
 13. [Recuperación de oro – Machine Learning](./Practicas/Sprint-13/)
+14. [Machine Learning en seguros – Sure Tomorrow](./Practicas/Sprint-14/)
+15. [Predicción de precios de autos – Rusty Bargain](./Practicas/Sprint-15/)
+16. [Predicción de demanda de taxis](./Practicas/Sprint-16/)
 
 
 Los proyectos muestran una progresión desde limpieza y análisis exploratorio de datos hasta aplicaciones de machine learning, modelado predictivo y evaluación de riesgo para toma de decisiones basada en datos.
@@ -166,6 +169,51 @@ Se trabajó con múltiples datasets que representan distintas fases del proceso,
 El proyecto incluye validación de cálculos del proceso, análisis de concentración de metales (Au, Ag, Pb), detección de valores atípicos y construcción de modelos de regresión evaluados mediante la métrica personalizada **sMAPE**.
 
 __Enfoque principal:__ modelado predictivo en entornos industriales, validación de datos y uso de métricas especializadas.
+
+---
+
+### 14. [Machine Learning en seguros – Sure Tomorrow](./Practicas/Sprint-14/)
+
+__Tecnologías:__ Python, pandas, numpy, scikit-learn, machine learning, álgebra lineal
+
+Proyecto de machine learning aplicado al sector asegurador que aborda múltiples problemas clave de negocio mediante el uso de modelos predictivos y técnicas de transformación de datos.
+
+Se desarrollaron soluciones para:
+
+- Identificación de clientes similares mediante métricas de distancia (k-NN), orientado a estrategias de marketing.
+- Clasificación para predecir la probabilidad de que un cliente reciba beneficios de seguro, comparando el rendimiento contra modelos dummy.
+- Regresión lineal para estimar la cantidad de beneficios que un cliente podría recibir.
+- Implementación de un algoritmo de **enmascaramiento de datos (data obfuscation)** basado en transformaciones matriciales, garantizando la protección de información sensible sin afectar el rendimiento del modelo.
+
+El proyecto demuestra cómo aplicar machine learning en escenarios reales considerando no solo precisión, sino también **privacidad y seguridad de los datos**.
+
+**Resultado:** Se logró proteger los datos personales mediante transformación matemática sin degradar el rendimiento de los modelos predictivos.
+
+__Enfoque principal:__ machine learning aplicado, similitud entre clientes, modelado predictivo y protección de datos.
+
+---
+
+### 15. [Predicción de precios de autos – Rusty Bargain](./Practicas/Sprint-15/)
+
+__Tecnologías:__ Python, pandas, scikit-learn, LightGBM, machine learning
+
+Proyecto de machine learning orientado a la predicción del valor de vehículos usados. Se compararon distintos modelos, incluyendo regresión lineal, árboles de decisión, Random Forest y técnicas de gradient boosting (LightGBM).
+
+El análisis se centró no solo en la precisión del modelo (RMSE), sino también en el tiempo de entrenamiento y la velocidad de predicción, identificando el mejor equilibrio entre rendimiento y eficiencia para un entorno de producción.
+
+__Enfoque principal:__ comparación de modelos, optimización de rendimiento y selección de modelos para sistemas reales.
+
+---
+
+## 16. [Predicción de demanda de taxis - Sweet Lift taxi](./Practicas/Sprint-16/)
+
+__Tecnologías:__ Python, pandas, scikit-learn, series temporales, machine learning
+
+Proyecto de machine learning enfocado en la predicción de demanda de taxis en aeropuertos a partir de datos históricos. Se realiza un remuestreo temporal de los datos a intervalos de una hora, seguido de un análisis exploratorio para identificar patrones de comportamiento en la demanda.
+
+Se entrenan múltiples modelos con distintos hiperparámetros para predecir el número de pedidos en la siguiente hora, evaluando su rendimiento mediante la métrica RECM (RMSE). El objetivo es optimizar la asignación de conductores en horas pico mediante predicciones precisas.
+
+__Enfoque principal:__ modelado de series temporales, predicción de demanda y optimización operativa basada en datos.
 
 ---
 ---
