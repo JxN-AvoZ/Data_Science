@@ -22,6 +22,8 @@ Este repositorio reúne una colección de proyectos desarrollados a lo largo de 
 14. [Machine Learning en seguros – Sure Tomorrow](./Practicas/Sprint-14/)
 15. [Predicción de precios de autos – Rusty Bargain](./Practicas/Sprint-15/)
 16. [Predicción de demanda de taxis](./Practicas/Sprint-16/)
+17. [NLP – Clasificación de reseñas de películas](./Practicas/Sprint-17/)
+18. [Visión artificial para estimación de edad](./Practicas/Sprint-18/)
 
 
 Los proyectos muestran una progresión desde limpieza y análisis exploratorio de datos hasta aplicaciones de machine learning, modelado predictivo y evaluación de riesgo para toma de decisiones basada en datos.
@@ -215,6 +217,35 @@ Se entrenan múltiples modelos con distintos hiperparámetros para predecir el n
 
 __Enfoque principal:__ modelado de series temporales, predicción de demanda y optimización operativa basada en datos.
 
+---
+
+### 17. [Clasificación de reseñas de películas con NLP – Film Junky Union](./Practicas/Sprint-17/)
+
+__Tecnologías:__ Python, pandas, scikit-learn, NLP, nltk, machine learning
+
+Proyecto de procesamiento de lenguaje natural (NLP) enfocado en la clasificación automática de reseñas de películas utilizando datos reales de IMDB.
+
+Se desarrollaron múltiples modelos de clasificación capaces de identificar si una reseña es positiva o negativa a partir del texto escrito por usuarios. El proyecto incluye limpieza y preprocesamiento de texto, vectorización mediante técnicas como TF-IDF y evaluación comparativa de diferentes algoritmos de machine learning utilizando métricas como F1-score, precisión y recall.
+
+Además, se realizaron pruebas manuales con reseñas personalizadas para evaluar el comportamiento de los modelos en escenarios reales de análisis de sentimientos.
+
+__Enfoque principal:__ procesamiento de lenguaje natural, análisis de sentimientos y clasificación de texto con machine learning.
+
+---
+
+### 18. [Visión artificial para estimación de edad – Good Seed](./Practicas/Sprint-18/)
+
+__Tecnologías:__ Python, TensorFlow, Keras, Computer Vision, Deep Learning, pandas
+
+Proyecto de visión artificial desarrollado para evaluar la viabilidad de utilizar modelos de aprendizaje profundo en la verificación de edad de clientes durante la compra de bebidas alcohólicas.
+
+A partir de un conjunto de fotografías etiquetadas con la edad de las personas, se construyó un modelo de redes neuronales convolucionales (CNN) capaz de estimar la edad de un individuo a partir de una imagen facial. El proyecto incluyó análisis exploratorio de imágenes, preparación de datos, entrenamiento de modelos basados en Deep Learning y evaluación mediante métricas de regresión.
+
+El objetivo fue determinar si la precisión obtenida permite apoyar el cumplimiento de regulaciones relacionadas con la venta de alcohol a menores de edad, explorando aplicaciones reales de inteligencia artificial en entornos comerciales.
+
+__Enfoque principal:__ visión artificial, estimación de edad mediante Deep Learning y aplicación de IA para cumplimiento normativo.
+
+---
 ---
 ---
 

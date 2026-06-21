@@ -22,11 +22,12 @@ Archivo: `imdb_reviews.tsv`
 
 *__Variables principales__*
 
-| Columna   | Descripción                                        |
-| --------- | -------------------------------------------------- |
-| `review`  | Texto de la reseña                                 |
-| `pos`     | Etiqueta objetivo (`0` = negativa, `1` = positiva) |
-| `ds_part` | División del dataset (`train` / `test`)            |
+
+| Columna   || Descripción                                        |
+| --------- || -------------------------------------------------- |
+| `review`  || Texto de la reseña                                 |
+| `pos`     || Etiqueta objetivo (`0` = negativa, `1` = positiva) |
+| `ds_part` || División del dataset (`train` / `test`)            |
 
 
 Dataset original publicado en:
@@ -84,29 +85,40 @@ También se analizaron:
 
 Se escribieron reseñas personalizadas para probar el comportamiento de los modelos en escenarios reales y comparar sus predicciones.
 
-Resultados
+---
+
+## Resultados
 Se logró entrenar modelos capaces de clasificar reseñas con alto desempeño.
 El mejor modelo alcanzó un valor de F1-score superior a 0.85.
 Los modelos basados en TF-IDF + Regresión Logística mostraron un excelente balance entre velocidad y precisión.
-Conclusiones
+
+---
+
+## Conclusiones
 El preprocesamiento de texto tiene un impacto significativo en el rendimiento de los modelos NLP.
 Modelos relativamente simples pueden ofrecer resultados muy competitivos en tareas de análisis de sentimientos.
 La vectorización TF-IDF resultó altamente efectiva para este problema.
 Este tipo de sistemas puede aplicarse en plataformas reales para moderación automática, análisis de opinión y clasificación de contenido.
-Tecnologías utilizadas
-Python
-pandas
-numpy
-matplotlib
-scikit-learn
-nltk
-spaCy
-transformers (opcional)
-Jupyter Notebook
-Habilidades aplicadas
-Procesamiento de lenguaje natural (NLP)
-Limpieza y transformación de texto
-Clasificación supervisada
-Evaluación de modelos
-Análisis de sentimientos
-Ingeniería de características textuales
+
+---
+
+## Tecnologías utilizadas
+- Python
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+- nltk
+- spaCy
+- transformers (opcional)
+- Jupyter Notebook
+
+
+## Habilidades aplicadas
+
+- Procesamiento de lenguaje natural (NLP)
+- Limpieza y transformación de texto
+- Clasificación supervisada
+- Evaluación de modelos
+- Análisis de sentimientos
+- Ingeniería de características textuales
