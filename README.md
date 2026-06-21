@@ -24,6 +24,7 @@ Este repositorio reúne una colección de proyectos desarrollados a lo largo de 
 16. [Predicción de demanda de taxis](./Practicas/Sprint-16/)
 17. [NLP – Clasificación de reseñas de películas](./Practicas/Sprint-17/)
 18. [Visión artificial para estimación de edad](./Practicas/Sprint-18/)
+19. [Proyecto Final – Predicción de cancelación de clientes](./Practicas/Sprint-19/)
 
 
 Los proyectos muestran una progresión desde limpieza y análisis exploratorio de datos hasta aplicaciones de machine learning, modelado predictivo y evaluación de riesgo para toma de decisiones basada en datos.
@@ -244,6 +245,18 @@ A partir de un conjunto de fotografías etiquetadas con la edad de las personas,
 El objetivo fue determinar si la precisión obtenida permite apoyar el cumplimiento de regulaciones relacionadas con la venta de alcohol a menores de edad, explorando aplicaciones reales de inteligencia artificial en entornos comerciales.
 
 __Enfoque principal:__ visión artificial, estimación de edad mediante Deep Learning y aplicación de IA para cumplimiento normativo.
+
+---
+
+### 19. [Proyecto Final – Predicción de cancelación de clientes (Interconnect)](./Practicas/Sprint-19/)
+
+__Tecnologías:__ Python, pandas, scikit-learn, LightGBM, CatBoost, Machine Learning
+
+Proyecto integrador final enfocado en la predicción de abandono de clientes (churn) en una empresa de telecomunicaciones. Se integraron múltiples fuentes de datos relacionadas con contratos, servicios de internet, telefonía y características demográficas para desarrollar modelos capaces de identificar clientes con alta probabilidad de cancelación.
+
+El proyecto incluye integración de datos, ingeniería de características, análisis exploratorio, entrenamiento y comparación de múltiples algoritmos de clasificación, así como optimización de hiperparámetros y evaluación mediante métricas como ROC-AUC y F1-score.
+
+__Enfoque principal:__ clasificación avanzada, integración de datos empresariales y estrategias de retención de clientes basadas en Machine Learning.
 
 ---
 ---
